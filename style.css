@@ -69,6 +69,17 @@ div#erro-msg{
     padding-bottom: 10px;
 }
 
+div#erro-msg.sucesso{
+    color: #4cd964;
+}
+
+p.demo{
+    font-size: 12px;
+    color: #d8d8d8;
+    text-align: center;
+    margin-top: 10px;
+}
+
 div.conected{
     font-size: 14px;
     margin-bottom: 1px;
